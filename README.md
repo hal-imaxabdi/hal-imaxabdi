@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Pixel-art cozy developer workspace" width="100%" />
+<div align="center">
+  <img src="./assets/banner.png" alt="Banner" width="850">
+</div>
 
 <br />
 <br />
