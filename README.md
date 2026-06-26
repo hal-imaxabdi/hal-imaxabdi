@@ -4,9 +4,6 @@
   <img src="./assets/banner.png" alt="Banner" width="850">
 </div>
 
-<br />
-<br />
-
 <h1>Hi, I'm Halima</h1>
 
 <p>
@@ -16,8 +13,6 @@
 <p>
   I learn best by building things, breaking them apart, and slowly understanding why they work.
 </p>
-
-<br />
 
 </div>
 
@@ -32,14 +27,6 @@ What does secure authentication look like when I build both the weak and stronge
 How does a SIEM collect logs, parse them, and turn small signals into useful alerts?
 
 I use projects to answer those questions. Some are polished, some are experiments, but each one teaches me something about software, security, or the space between them.
-
----
-
-## What I'm Building Right Now
-
-Right now, I'm spending more time on secure software engineering.
-
-That means building applications with authentication, authorization, audit logs, safer defaults, and clearer documentation. I'm also exploring detection engineering through small security tools that help me understand how systems behave.
 
 ---
 
