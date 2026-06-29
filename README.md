@@ -14,6 +14,8 @@
   I learn best by building things, breaking them apart, and slowly understanding why they work.
 </p>
 
+### 🌟 [View My Live Portfolio](https://hal-s-portfolio.vercel.app/) 🌟
+
 </div>
 
 ---
