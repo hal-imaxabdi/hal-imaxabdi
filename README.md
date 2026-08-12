@@ -42,7 +42,7 @@
 
 <img src="./assets/student.gif" width="380">
 
-Looking deeper into cyber risk management, security controls, and GRC frameworks.
+Currently learning more about security operations, SIEM, threat detection, and incident response.
 
 </div>
 
