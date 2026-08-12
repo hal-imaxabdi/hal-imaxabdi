@@ -1,7 +1,7 @@
 # Hi, I'm Halima! 👋
 
 <p align="center">
-  <img src="./assets/ladybug-dew.gif" width="420">
+  <img src="./assets/Ladybug Dew GIF.gif" width="420">
 </p>
 
 ---
