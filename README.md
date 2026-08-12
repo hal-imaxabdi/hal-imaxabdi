@@ -1,9 +1,4 @@
 # Hi, I'm Halima! 👋
-
-I'm an Information Technology student specializing in Cybersecurity 🔐
-
-I'm interested in information security, security operations, risk assessment, and application security. I learn by building, experimenting, and learning along the way, and probably asking too many questions. 🤔
-
 ---
 
 ## 👩‍💻 About Me
@@ -49,13 +44,6 @@ I'm interested in information security, security operations, risk assessment, an
 - Risk Assessment
 - Information Security Governance
 - Security Auditing
-
----
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/halima-abdirizak-mohamed/)
-- 🌐 [Portfolio](https://hal-s-portfolio.vercel.app/)
 
 ---
 
