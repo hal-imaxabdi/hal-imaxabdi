@@ -24,7 +24,7 @@
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-4B5563?style=flat-square&logo=cisco&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic%20SIEM-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,6 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+
 
 ---
 ## Currently learning
