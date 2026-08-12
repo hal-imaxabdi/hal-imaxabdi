@@ -1,10 +1,3 @@
-<div align="center">
-
-<div align="center">
-  <img src="./assets/banner.png" alt="Banner" width="850">
-</div>
-
-
 # Hi, I'm Halima 👋
 
 I'm an Information Technology student specializing in Cybersecurity, with interests in information security, security operations, risk assessment, and application security.
@@ -61,5 +54,6 @@ I'm currently strengthening my knowledge in:
 - Information Security Governance
 - Security Auditing
 
+---
 
 Thanks for visiting my profile! Feel free to explore my repositories and projects.
