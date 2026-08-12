@@ -49,10 +49,12 @@
 ## Currently Learning
 
 <div align="center">
-  <img src="./assets/student.gif" width="380">
-</div>
+
+<img src="./assets/student.gif" width="380">
 
 Looking deeper into cyber risk management, security controls, and GRC frameworks.
+
+</div>
 
 ---
 
@@ -65,4 +67,3 @@ Feel free to explore my repositories and see what I'm learning and building.
 <img src="./assets/lets talk.gif" width="300">
 
 </div>
-
