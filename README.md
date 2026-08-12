@@ -12,7 +12,6 @@
 
 - IT student specializing in **Cybersecurity**
 - I enjoy learning through hands-on projects
-- Currently exploring cyber risk, security controls, and GRC
 
 <div align="center">
   <img src="./assets/coding.gif" width="380">
