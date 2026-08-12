@@ -1,17 +1,13 @@
-<div align="center">
-
-<h1>Hi, I'm Halima! 👋</h1>
-
-<p>IT Student | Cybersecurity 🔐</p>
+# Hi, I'm Halima! 
 
 <img src="./assets/Lady Bug Dance GIF by Lisa Vertudaches.gif
 " width="420">
 
 </div>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
-<div align="center">
+<div >
 
 <p>🎓 IT student specializing in Cybersecurity</p>
 
@@ -40,26 +36,6 @@
 <p>💬 Always happy to learn, share ideas, and ask questions</p>
 
 <img src="./assets/lets talk.gif" width="350">
-
-</div>
-
----
-
-<h2 align="center"> Cybersecurity Interests</h2>
-
-<div align="center">
-
-Security Operations • SIEM • Risk Assessment • Application Security • Security Auditing • Network Security
-
-</div>
-
----
-
-<h2 align="center">🛠️ Tools & Technologies</h2>
-
-<div align="center">
-
-Elastic SIEM • Wazuh • Wireshark • Nmap • Burp Suite • Python • Linux • Git
 
 </div>
 
