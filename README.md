@@ -4,57 +4,62 @@
   <img src="./assets/banner.png" alt="Banner" width="850">
 </div>
 
-<h1>Hi, I'm Halima</h1>
 
-<p>
-  I'm an Informatics student interested in software engineering and cybersecurity.
-</p>
+# Hi, I'm Halima 👋
 
-<p>
-  I learn best by building things, breaking them apart, and slowly understanding why they work.
-</p>
+I'm an Information Technology student specializing in Cybersecurity, with interests in information security, security operations, risk assessment, and application security.
 
-### 🌟 [View My Live Portfolio](https://hal-s-portfolio.vercel.app/) 🌟
+I learn best through hands-on projects, using practical work to understand how security tools, systems, and controls work.
 
-</div>
+🌐 [View My Portfolio](https://hal-s-portfolio.vercel.app/)
 
 ---
 
-## Why I Build
+## 🔐 What I Work With
 
-Most of my repositories start with a question.
+- Security Operations & SIEM
+- Risk Assessment & Security Auditing
+- Vulnerability Assessment
+- Incident Response
+- Web & Application Security
+- Network Security
+- Secure Authentication & Access Control
 
-How does a browser extension inspect something safely?  
-What does secure authentication look like when I build both the weak and stronger versions?  
-How does a SIEM collect logs, parse them, and turn small signals into useful alerts?
+## 🛠️ Tools & Technologies
 
-I use projects to answer those questions. Some are polished, some are experiments, but each one teaches me something about software, security, or the space between them.
+**Security:**  
+Elastic SIEM · Wazuh · Wireshark · Nmap · Burp Suite · Sysmon · Auditd
 
----
+**Programming & Databases:**  
+Python · JavaScript · TypeScript · SQL · PostgreSQL · MySQL
 
-## Around Here
+**Systems & Development:**  
+Linux · Git · GitHub · React · Node.js · Next.js
 
-You'll mostly find projects about:
+## 📌 Featured Projects
 
-- building secure web applications
-- experimenting with browser extensions
-- understanding how detection systems work
-- mobile apps built while learning new frameworks
+🔹 **AI-Assisted Cybersecurity Risk Assessment & Security Audit Platform**  
+A Python and Flask platform for risk assessment, risk scoring, NIST CSF mapping, vulnerability tracking, and security audit reporting.
 
-Some projects are polished, others are experiments, but every repository exists because I wanted to understand something better.
----
+🔹 **SOC Homelab & Detection Engineering**  
+Hands-on security monitoring using Elastic SIEM, Windows, Kali Linux, Sysmon, and simulated attack activity.
 
-## Notes I Keep Coming Back To
+🔹 **SEMIS Secure Employee Management System**  
+A secure web application exploring authentication, MFA, RBAC, JWT sessions, and encryption.
 
-- Build first, then understand deeper.
-- Security makes more sense when I can test the weak version and the improved version side by side.
-- Good documentation is part of the project, not something separate from it.
-- Small tools are still worth building if they make one idea clearer.
+🔹 **Hookline Phishing Detection Extension**  
+A browser extension focused on identifying phishing and suspicious web activity.
 
----
+## 📚 Currently Learning
 
-Thanks for stopping by.
+I'm currently strengthening my knowledge in:
 
-If a project catches your interest, feel free to explore it or reach out—I'm always happy to learn from other builders.
+- Cyber Risk & GRC
+- NIST CSF
+- Security Controls
+- Risk Assessment
+- Information Security Governance
+- Security Auditing
 
-</div>
+
+Thanks for visiting my profile! Feel free to explore my repositories and projects.
