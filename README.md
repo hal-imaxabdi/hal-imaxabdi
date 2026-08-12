@@ -4,7 +4,7 @@ I'm an Information Technology student specializing in Cybersecurity, with intere
 
 I learn best through hands-on projects and practical experimentation to understand how security tools, systems, and controls work.
 
-                             🌐 [View My Portfolio](https://hal-s-portfolio.vercel.app/)
+   🌐 [View My Portfolio](https://hal-s-portfolio.vercel.app/)
 
 ---
 
