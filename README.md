@@ -4,13 +4,10 @@
 
 <p>IT Student | Cybersecurity 🔐</p>
 
-<img src="./assets/Ladybug Dew GIF.gif" width="420">
-
-<p>Learning along the way, and probably asking too many questions. 🤔</p>
+<img src="./assets/Lady Bug Dance GIF by Lisa Vertudaches.gif
+" width="420">
 
 </div>
-
----
 
 <h2 align="center">👩‍💻 About Me</h2>
 
@@ -18,19 +15,19 @@
 
 <p>🎓 IT student specializing in Cybersecurity</p>
 
-<img src="./assets/inforsecurity.jpg" width="350">
+<img src="./assets/student.gif" width="350">
 
 <br><br>
 
 <p>🔐 Interested in information security and cybersecurity</p>
 
-<img src="./assets/coding.gif" width="350">
+<img src="./assets/Cybersecurity Recover GIF by National Institute of Standards and Technology (NIST).gif" width="350">
 
 <br><br>
 
 <p>🛠️ I enjoy learning through hands-on projects</p>
 
-<img src="./assets/Ladybug Dew GIF.gif" width="350">
+<img src="./assets/coding.gif" width="350">
 
 <br><br>
 
@@ -48,7 +45,7 @@
 
 ---
 
-<h2 align="center">🔐 Cybersecurity Interests</h2>
+<h2 align="center"> Cybersecurity Interests</h2>
 
 <div align="center">
 
@@ -70,7 +67,7 @@ Elastic SIEM • Wazuh • Wireshark • Nmap • Burp Suite • Python • Linu
 
 <div align="center">
 
-<h3>Thanks for stopping by! 👋</h3>
+<h3>Thanks for stopping by! </h3>
 
 <p>Feel free to explore my repositories and see what I'm learning and building.</p>
 
