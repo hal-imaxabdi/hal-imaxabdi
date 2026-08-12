@@ -32,8 +32,6 @@
 
 ---
 
-## Currently Learning
-
 <div align="center">
 
 <img src="./assets/student.gif" width="380">
