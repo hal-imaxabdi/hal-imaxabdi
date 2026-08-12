@@ -4,7 +4,7 @@
 
 # Hi, I'm Halima
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EE6A6&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Information+Security;Governance%2C+Risk+%26+Compliance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EE6A6&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Information+Security;Always+learning%2C+always+curious" alt="Typing SVG" />
 
 </div>
 
@@ -57,8 +57,6 @@ Looking deeper into cyber risk management, security controls, and GRC frameworks
 </div>
 
 ---
-
-## Thanks for stopping by
 
 <div align="center">
 
