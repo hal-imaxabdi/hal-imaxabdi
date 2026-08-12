@@ -42,7 +42,7 @@ Looking deeper into cyber risk management, security controls, and GRC frameworks
 </div>
 
 ---
-
+## Let's Connect
 <div align="center">
 
 Feel free to explore my repositories and see what I'm learning and building.
