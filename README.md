@@ -37,12 +37,11 @@
 
 ---
 ## Currently learning
-
 <div align="center">
+  
+Currently learning more about security operations, SIEM, threat detection, and incident response.
 
 <img src="./assets/student.gif" width="380">
-
-Currently learning more about security operations, SIEM, threat detection, and incident response.
 
 </div>
 
