@@ -18,9 +18,9 @@
   <tr>
     <td width="60%" valign="middle">
 
-- 🔐 Interested in **cybersecurity**, **backend development**, and **building secure systems**
-- 🔍 I like understanding what happens behind the scenes, from application logic to vulnerabilities
-- 🧪 I learn by building, experimenting, breaking things safely, and documenting what I discover
+- Interested in **cybersecurity**, **backend development**, and **building secure systems**
+- I like understanding what happens behind the scenes, from application logic to vulnerabilities
+- I learn by building, experimenting, breaking things safely, and documenting what I discover
 
 </td>
     <td width="40%" align="center" valign="middle">
