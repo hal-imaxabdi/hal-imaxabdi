@@ -4,8 +4,6 @@
 
 # Hi, I'm Halima
 
-**Cybersecurity · Backend Development · Secure Systems**
-
 *Curious about how things work, and how to make them more secure.*
 
 </div>
