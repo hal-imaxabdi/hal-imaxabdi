@@ -4,10 +4,7 @@
 
 # Hi, I'm Halima
 
-*Curious about how things work, and how to make them more secure.*
-
 </div>
-
 <br>
 
 ## About Me
