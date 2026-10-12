@@ -7,6 +7,8 @@
 </div>
 <br>
 
+<div align="center">
+  
 ## About Me
 
 <table>
@@ -28,9 +30,9 @@
 
 <br>
 
-## Tech & Tools
-
 <div align="center">
+
+## Tech & Tools
 
 | | |
 |:---:|:---|
