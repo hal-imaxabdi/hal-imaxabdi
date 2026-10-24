@@ -57,25 +57,24 @@ I learn by building, testing, investigating problems, and documenting what I dis
 
 I enjoy working with APIs, authentication, databases, application logic, and automated tests. I'm interested in how good engineering practices and security controls work together to produce reliable applications.
 
-**Security research & hands-on learning**
-
-My interests include web application vulnerabilities, phishing detection, authentication security, network analysis, and defensive security tools. I value understanding why a weakness exists, how it can be tested safely, and how it can be mitigated.
-
 **Currently learning**
 
 - Strengthening my backend engineering and software design fundamentals.
 - Deepening my understanding of application and API security.
 - Improving my testing, debugging, and technical documentation skills.
 
+## GitHub Contributions
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hal-imaxabdi&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&hide_border=true" alt="Halima's GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hal-imaxabdi&hide_title=true&layout=compact&theme=graywhite&hide_border=true" alt="Most-used languages on GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hal-imaxabdi&theme=default" alt="GitHub contribution overview" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-236-E85D75?style=for-the-badge&logo=git&logoColor=white" alt="236 commits" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-34-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="34 pull requests" />
+  <img src="https://img.shields.io/badge/Repositories%20Contributed%20To-3-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Contributed to 3 repositories in the last year" />
+</p>
 <p align="center">
   <i>Build with curiosity. Test with purpose. Think about security.</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hal-imaxabdi">Explore my repositories</a>
-</p>
