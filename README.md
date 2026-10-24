@@ -14,7 +14,7 @@
 
 **A little about me**
 
-I'm Halima, an Informatics professional focused on software engineering and cybersecurity. I enjoy building applications, understanding how systems work behind the scenes, and exploring ways to make software more secure.
+I'm Halima, an Informatics student focused on software engineering and cybersecurity. I enjoy building applications, understanding how systems work behind the scenes, and exploring ways to make software more secure.
 
 **Languages I've worked with**
 
