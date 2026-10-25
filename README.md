@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:171717&height=180&section=header&text=Halima%20Abdirizak%20Mohamed&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Cybersecurity&descAlignY=55&descSize=15)](https://hal-imaxabdi.github.io/)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:171717&height=180&section=header&text=Halima%20A.%20Mohamed&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Cybersecurity&descAlignY=55&descSize=15)](https://hal-imaxabdi.github.io/)
 
 <p align="center">
   <a href="https://hal-imaxabdi.github.io/">
