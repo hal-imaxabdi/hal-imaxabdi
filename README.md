@@ -41,7 +41,8 @@ class Halima:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hal-imaxabdi/hal-imaxabdi/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/hal-imaxabdi/hal-imaxabdi/output/github-snake.svg" alt="snake eating my contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hal-imaxabdi/hal-imaxabdi/output/github-snake-dark.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/hal-imaxabdi/hal-imaxabdi/output/github-snake.svg?v=2" alt="snake eating my contributions" />
   </picture>
 </p>
+
