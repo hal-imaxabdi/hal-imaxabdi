@@ -1,14 +1,24 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:171717&height=180&section=header&text=Halima%20A.%20Mohamed&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Cybersecurity&descAlignY=55&descSize=15)](https://hal-imaxabdi.github.io/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=39D353&center=true&vCenter=true&width=600&lines=hi%2C+i%27m+halima;i+build+backends;then+i+try+to+break+them;now+shipping%3A+dependency-compass" alt="typing intro" />
+</p>
 
-```console
-$ git log --oneline halima
+<p align="center">
+  backend + appsec · president university · previously @ flyrank ai
+</p>
 
-a3f9e21  wip: dependency-compass, tells you which vulns to fix first
-7c2d104  flyrank ai: payment webhooks, usage billing, 68 tests
-5b81e0c  hookline: catches phishing links before you click them
-2e4a7f3  semis: an HR system that encrypts what it should
-1d09c8a  left kenya for indonesia to study cybersecurity
-0000001  initial commit
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,react,postgres,docker,linux,kali" />
+</p>
 
-[portfolio](https://hal-imaxabdi.github.io/) · [linkedin](https://www.linkedin.com/in/halima-abdirizak-mohamed/) · [email](mailto:halimamohamedabdirizak@gmail.com)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hal-imaxabdi/hal-imaxabdi/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/hal-imaxabdi/hal-imaxabdi/output/github-snake.svg" alt="snake eating my contributions" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://hal-imaxabdi.github.io/">portfolio</a> ·
+  <a href="https://www.linkedin.com/in/halima-abdirizak-mohamed/">linkedin</a> ·
+  <a href="mailto:halimamohamedabdirizak@gmail.com">email</a>
+</p>
