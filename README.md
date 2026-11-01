@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2000&color=39D353&center=true&vCenter=true&width=400&lines=hi%2C+i%27m+halima" alt="hi, i'm halima" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2000&color=8B949E&center=true&vCenter=true&width=400&lines=hi%2C+i%27m+halima" alt="hi, i'm halima" />
 </p>
 
 <p align="center">
-  <a href="https://hal-imaxabdi.github.io/"><img src="https://img.shields.io/badge/%24_open-portfolio-39D353?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/halima-abdirizak-mohamed/"><img src="https://img.shields.io/badge/%24_open-linkedin-39D353?style=for-the-badge&labelColor=0d1117" alt="linkedin" /></a>
-  <a href="mailto:halimamohamedabdirizak@gmail.com"><img src="https://img.shields.io/badge/%24_send-email-39D353?style=for-the-badge&labelColor=0d1117" alt="email" /></a>
+  <a href="https://hal-imaxabdi.github.io/"><img src="https://img.shields.io/badge/%24_open-portfolio-6E7681?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/halima-abdirizak-mohamed/"><img src="https://img.shields.io/badge/%24_open-linkedin-6E7681?style=for-the-badge&labelColor=0d1117" alt="linkedin" /></a>
+  <a href="mailto:halimamohamedabdirizak@gmail.com"><img src="https://img.shields.io/badge/%24_send-email-6E7681?style=for-the-badge&labelColor=0d1117" alt="email" /></a>
 </p>
 
 <br/>
