@@ -2,20 +2,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2000&color=39D353&center=true&vCenter=true&width=400&lines=hi%2C+i%27m+halima" alt="hi, i'm halima" />
 </p>
 
-<p align="center">
-  backend + appsec · student @ president university 
-</p>
+<br/>
+
+```python
+from dataclasses import dataclass
+
+
+@dataclass
+class Halima:
+    """backend + appsec · student @ president university"""
+
+    studies: str = "IT, focus on cybersecurity"
+    works_on: tuple = ("APIs", "auth", "databases")
+    keeps_finding: str = "the bugs hiding between them"
+    building: tuple = (
+        "a phishing detector that explains itself",
+        "a scanner that tells you which vulnerable package to fix first",
+    )
+
+    def trust(self, user_input) -> bool:
+        return False  # until proven otherwise
+```
+
+<br/>
 
 <p align="center">
-  I study IT with a focus on cybersecurity.<br/>
-  Most of my time goes into backend work: APIs, auth, databases, and the bugs hiding between them.<br/>
-  I like building tools that make security less of a chore, like a phishing detector that explains itself<br/>
-  and a scanner that tells you which vulnerable package to fix first.
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,react,postgres,docker,linux,kali&perline=9" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,react,postgres,docker,linux,kali" />
-</p>
+<br/>
 
 <p align="center">
   <picture>
