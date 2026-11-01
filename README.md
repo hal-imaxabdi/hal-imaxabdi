@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  backend + appsec · president university · previously @ flyrank ai
+  backend + appsec · student @ president university 
 </p>
 
 <p align="center">
