@@ -10,7 +10,7 @@
 
 <br/>
 
-I'm a cybersecurity student who likes the defensive side: reading logs, investigating alerts, and understanding networks well enough to notice when something is off. I recently completed a SOC analyst internship, and right now I'm building a home SOC lab to practice detection.
+I'm a cybersecurity student who likes the defensive side: reading logs, investigating alerts, and understanding networks well enough to notice when something is off. 
 <br/>
 
 ### my toolkit
