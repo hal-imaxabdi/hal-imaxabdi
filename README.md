@@ -1,60 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2000&color=8B949E&center=true&vCenter=true&width=520&lines=hi%2C+i%27m+halima;blue+team+%C2%B7+soc+%C2%B7+network+security;trust+nothing.+log+everything." alt="hi, i'm halima — blue team · soc · network security" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:134e4a&section=header&text=Halima%20Mohamed&fontColor=e6edf3&fontSize=44&fontAlignY=36&desc=blue%20team%20%C2%B7%20soc%20%C2%B7%20network%20security&descSize=16&descAlignY=56&animation=fadeIn" alt="Halima Mohamed — blue team · soc · network security" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://hal-imaxabdi.github.io/"><img src="https://img.shields.io/badge/%24_open-portfolio-6E7681?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/halima-abdirizak-mohamed/"><img src="https://img.shields.io/badge/%24_open-linkedin-6E7681?style=for-the-badge&labelColor=0d1117" alt="linkedin" /></a>
-  <a href="mailto:halimamohamedabdirizak@gmail.com"><img src="https://img.shields.io/badge/%24_send-email-6E7681?style=for-the-badge&labelColor=0d1117" alt="email" /></a>
+  <a href="https://hal-imaxabdi.github.io/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=5eead4" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/halima-abdirizak-mohamed/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="linkedin" /></a>
+  <a href="mailto:halimamohamedabdirizak@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=5eead4" alt="email" /></a>
 </p>
 
 <br/>
 
-```console
-$ whoami
-halima — cybersecurity @ president university, indonesia
-
-$ cat focus.txt
-blue team · soc analysis · network security · ai security
-
-$ tail -n 5 /var/log/halima.log
-[2026-09] INFO   completed soc analyst internship — techbiz security academy
-[2026-09] INFO   started system internship — president university e-technology
-[2026-11] INFO   learning: cisco networking, splunk, log analysis
-[2026-11] INFO   building: home soc lab + incident investigation write-ups
-[future ] ALERT  goal detected: security architect
-
-$ trust --input user
-denied. (until proven otherwise)
-```
-
+I'm a cybersecurity student who likes the defensive side: reading logs, investigating alerts, and understanding networks well enough to notice when something is off. I recently completed a SOC analyst internship, and right now I'm building a home SOC lab to practice detection.
 <br/>
 
-### featured work
+### my toolkit
 
-| project | what it does |
+| | |
 |---|---|
-| [**WAF-HomeLab-SafeLine**](https://github.com/hal-imaxabdi/WAF-HomeLab-SafeLine) | self-hosted web application firewall lab using SafeLine |
-| [**hookline**](https://github.com/hal-imaxabdi/hookline) | chrome extension that flags phishing links in gmail and explains why |
-| [**Dependency-compass**](https://github.com/hal-imaxabdi/Dependency-compass) | ranks vulnerable dependencies by active exploitation (CISA KEV), severity and available fixes |
+| **detect** | <img src="https://img.shields.io/badge/splunk-0d1117?style=flat-square&logo=splunk&logoColor=5eead4" alt="splunk" /> <img src="https://img.shields.io/badge/wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=5eead4" alt="wireshark" /> |
+| **investigate** | <img src="https://img.shields.io/badge/virustotal-0d1117?style=flat-square&logo=virustotal&logoColor=5eead4" alt="virustotal" /> <img src="https://img.shields.io/badge/abuseipdb-0d1117?style=flat-square" alt="abuseipdb" /> <img src="https://img.shields.io/badge/mitre_att%26ck-0d1117?style=flat-square" alt="mitre att&ck" /> |
+| **defend** | <img src="https://img.shields.io/badge/safeline_waf-0d1117?style=flat-square" alt="safeline waf" /> |
+| **network** | <img src="https://img.shields.io/badge/cisco-0d1117?style=flat-square&logo=cisco&logoColor=5eead4" alt="cisco" /> |
+| **lab** | <img src="https://img.shields.io/badge/kali_linux-0d1117?style=flat-square&logo=kalilinux&logoColor=5eead4" alt="kali linux" /> <img src="https://img.shields.io/badge/windows-0d1117?style=flat-square&logo=windows&logoColor=5eead4" alt="windows" /> <img src="https://img.shields.io/badge/virtualbox-0d1117?style=flat-square&logo=virtualbox&logoColor=5eead4" alt="virtualbox" /> <img src="https://img.shields.io/badge/docker-0d1117?style=flat-square&logo=docker&logoColor=5eead4" alt="docker" /> |
 
 <br/>
 
-### tools i work with
-
-<p align="left">
-  <img src="https://img.shields.io/badge/splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=8B949E" alt="splunk" />
-  <img src="https://img.shields.io/badge/wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=8B949E" alt="wireshark" />
-  <img src="https://img.shields.io/badge/kali_linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=8B949E" alt="kali linux" />
-  <img src="https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux&logoColor=8B949E" alt="linux" />
-  <img src="https://img.shields.io/badge/windows-0d1117?style=for-the-badge&logo=windows&logoColor=8B949E" alt="windows" />
-  <img src="https://img.shields.io/badge/cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=8B949E" alt="cisco" />
-  <img src="https://img.shields.io/badge/virtualbox-0d1117?style=for-the-badge&logo=virtualbox&logoColor=8B949E" alt="virtualbox" />
-  <img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=8B949E" alt="docker" />
-</p>
-
-
-<br/>
+<p align="center"><code>trust nothing. log everything.</code></p>
 
 <p align="center">
   <picture>
@@ -62,3 +33,5 @@ denied. (until proven otherwise)
     <img src="https://raw.githubusercontent.com/hal-imaxabdi/hal-imaxabdi/output/github-snake.svg?v=2" alt="snake eating my contributions" />
   </picture>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:134e4a,100:0d1117&section=footer" alt="" width="100%" />
