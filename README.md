@@ -36,8 +36,7 @@ denied. (until proven otherwise)
 |---|---|
 | [**WAF-HomeLab-SafeLine**](https://github.com/hal-imaxabdi/WAF-HomeLab-SafeLine) | self-hosted web application firewall lab using SafeLine |
 | [**hookline**](https://github.com/hal-imaxabdi/hookline) | chrome extension that flags phishing links in gmail and explains why |
-| [**Dependency-compass**](https://github.com/hal-imaxabdi/Dependency-compass) | ranks vulnerable dependencies by active exploitation (CISA KEV), severity and available fixes
--->
+| [**Dependency-compass**](https://github.com/hal-imaxabdi/Dependency-compass) | ranks vulnerable dependencies by active exploitation (CISA KEV), severity and available fixes |
 
 <br/>
 
@@ -54,13 +53,6 @@ denied. (until proven otherwise)
   <img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=8B949E" alt="docker" />
 </p>
 
-<sub>training: google cybersecurity certificate · techbiz soc analyst internship · tryhackme pre security</sub>
-
-<!-- tryhackme badge: replace YOUR_USERNAME and remove these comment markers
-<p align="left">
-  <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="tryhackme" /></a>
-</p>
--->
 
 <br/>
 
