@@ -1,32 +1,43 @@
-## Halima Mohamed
+<p align="center">
+  <a href="https://github.com/hal-imaxabdi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Halima+Mohamed;Software+engineering+and+cybersecurity;Building+backends+with+Python+and+TypeScript;Always+learning+something+new" alt="Typing intro">
+  </a>
+</p>
 
-Software engineering and cybersecurity.
+<p align="center">
+  <a href="https://hal-imaxabdi.github.io"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/halima-abdirizak-mohamed"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:halimamohamedabdirizak@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-I build backend systems in Python and TypeScript, then look at them the way an attacker or an incident responder would: what breaks, what gets logged, and what an investigator would need to piece it together afterwards.
+<p align="center">
+  Informatics student who builds backend systems and enjoys finding out how to secure them.
+</p>
 
-### Projects
+---
 
-**Building**
+### Tools I use
 
-- [**Slotwise**](https://github.com/hal-imaxabdi/slotwise): booking platform where PostgreSQL itself prevents double bookings, even under simultaneous requests. [Live demo](https://slotwise-mocha.vercel.app)
-- [**FlyRank Billing Engine**](https://github.com/hal-imaxabdi/flyrank-billing-engine): usage metering with exactly-once event recording and signed payment webhooks.
-- [**Dependency Compass**](https://github.com/hal-imaxabdi/Dependency-compass): ranks vulnerable dependencies so the actively exploited ones get fixed first. Web app, CLI and GitHub Action. [Live demo](https://dependency-compass.onrender.com)
+**Languages**
 
-**Securing**
+<img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-1F6FEB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 
-- [**Splunk BOTS v1 Investigation**](https://github.com/hal-imaxabdi/splunk-bots-v1-investigation): traced a web defacement and Cerber ransomware through 33 million events, with a full incident report.
-- [**SOC Homelab**](https://github.com/hal-imaxabdi/Soc-Homelab): Windows and Kali VMs sending logs to Elastic SIEM, with custom detections.
-- [**Hookline**](https://github.com/hal-imaxabdi/hookline): Chrome extension that flags phishing and scam messages and explains why.
-- [**WAF Homelab**](https://github.com/hal-imaxabdi/WAF-HomeLab-SafeLine): SafeLine WAF attacked from Kali, documenting what it stopped and what it missed.
+**Frameworks and databases**
 
-CTF write-ups: [Hack The Box](https://github.com/hal-imaxabdi/htb-ctf-tryout-writeups)
+<img src="https://img.shields.io/badge/FastAPI-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Node.js-1F6FEB?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/React-1F6FEB?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/PostgreSQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-1F6FEB?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 
-### Stack
+**Security and DevOps**
 
-**Development:** Python, FastAPI, Flask, TypeScript, Node.js, React, PostgreSQL, MongoDB, Docker, GitHub Actions, Pytest
+<img src="https://img.shields.io/badge/Splunk-1F6FEB?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"> <img src="https://img.shields.io/badge/Elastic-1F6FEB?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic"> <img src="https://img.shields.io/badge/Wireshark-1F6FEB?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"> <img src="https://img.shields.io/badge/Kali_Linux-1F6FEB?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"> <img src="https://img.shields.io/badge/Docker-1F6FEB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GitHub_Actions-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 
-**Security:** Splunk (SPL), Elastic SIEM (KQL), Sysmon, Wireshark, MITRE ATT&CK, OWASP Top 10, Kali Linux
+---
 
-### Contact
+### GitHub activity
 
-[Portfolio](https://hal-imaxabdi.github.io) · [LinkedIn](https://linkedin.com/in/halima-abdirizak-mohamed) 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hal-imaxabdi&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hal-imaxabdi&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&area_color=1F6FEB" alt="Contribution graph" width="100%">
+</p>
